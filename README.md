@@ -79,8 +79,8 @@ Rumble feedback is used for flippers, nudges, bumpers, targets, kickbacks, drain
 
 XBSCPinball stores its settings and high scores locally on the Xbox hard drive.
 
-- Settings: `D:\pinball.ini`
-- High Scores: `D:\highscore.dat`
+- Settings: `pinball.ini`
+- High Scores: `highscore.dat`
 
 ## Credits & Attribution
 
